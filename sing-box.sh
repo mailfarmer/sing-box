@@ -1178,7 +1178,7 @@ sing-box_json() {
 {
     "log":{
         "disabled":false,
-        "level":"error",
+        "level":"info",
         "output":"${WORK_DIR}/logs/box.log",
         "timestamp":true
     }
